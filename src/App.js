@@ -24,7 +24,7 @@ function App() {
       <section>
         <div className="top">
           <div>
-            <span> K.Griffith </span>
+            <span> K.Griffith xudojnik </span>
           </div>
           <div>
             <ul>
