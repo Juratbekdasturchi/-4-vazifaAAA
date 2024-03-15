@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import monitor from './Monitor.svg';
 import telefon from './Telefon.svg';
-// import woman from '../src/rasmlar/womann.svg';
 import woman from '../src/rasmlar/Kayla.webp';
 import book from '../src/rasmlar/book.jpg';
 import Quoetea11 from '../src/rasmlar/Quoetea11.png'
@@ -24,7 +22,7 @@ function App() {
       <section>
         <div className="top">
           <div>
-            <span> K.Griffith xudojnik </span>
+            <span> K.Griffith xudojnikcha </span>
           </div>
           <div>
             <ul>
