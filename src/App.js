@@ -22,7 +22,7 @@ function App() {
       <section>
         <div className="top">
           <div>
-            <span> K.Griffith xudojnikcha </span>
+            <span> K.Griffith xudojnikchalarning </span>
           </div>
           <div>
             <ul>
